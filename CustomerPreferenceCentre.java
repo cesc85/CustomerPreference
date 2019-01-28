@@ -11,8 +11,8 @@ import java.util.Date;
 import java.util.Locale;
 
 public class CustomerPreferenceCentre {
-	private static final String INPUT_FILE = "C:/codechallenge/CustomerPreferenceCentre/input.txt";
-	private static final String OUTPUT_FILE = "C:/codechallenge/CustomerPreferenceCentre/output.txt";
+	private static final String INPUT_FILE = "C:/CustomerPreferenceCentre/input.txt";
+	private static final String OUTPUT_FILE = "C:/CustomerPreferenceCentre/output.txt";
 	private static final DateFormat outputFormat = new SimpleDateFormat("EEE dd-MMMM-yyyy", new Locale("EN"));
 	
 	public static void main(String[] args) throws IOException {
