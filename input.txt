@@ -1,0 +1,6 @@
+A a 2
+B a 7
+C b Mon Sat Sun
+D c
+E d
+F b Thu
