@@ -1,0 +1,90 @@
+Tue 29-January-2019 D
+Wed 30-January-2019 D
+Thu 31-January-2019 D, F
+Fri 01-February-2019 D
+Sat 02-February-2019 D, A, C
+Sun 03-February-2019 D, C
+Mon 04-February-2019 D, C
+Tue 05-February-2019 D
+Wed 06-February-2019 D
+Thu 07-February-2019 D, B, F
+Fri 08-February-2019 D
+Sat 09-February-2019 D, C
+Sun 10-February-2019 D, C
+Mon 11-February-2019 D, C
+Tue 12-February-2019 D
+Wed 13-February-2019 D
+Thu 14-February-2019 D, F
+Fri 15-February-2019 D
+Sat 16-February-2019 D, C
+Sun 17-February-2019 D, C
+Mon 18-February-2019 D, C
+Tue 19-February-2019 D
+Wed 20-February-2019 D
+Thu 21-February-2019 D, F
+Fri 22-February-2019 D
+Sat 23-February-2019 D, C
+Sun 24-February-2019 D, C
+Mon 25-February-2019 D, C
+Tue 26-February-2019 D
+Wed 27-February-2019 D
+Thu 28-February-2019 D, F
+Fri 01-March-2019 D
+Sat 02-March-2019 D, A, C
+Sun 03-March-2019 D, C
+Mon 04-March-2019 D, C
+Tue 05-March-2019 D
+Wed 06-March-2019 D
+Thu 07-March-2019 D, B, F
+Fri 08-March-2019 D
+Sat 09-March-2019 D, C
+Sun 10-March-2019 D, C
+Mon 11-March-2019 D, C
+Tue 12-March-2019 D
+Wed 13-March-2019 D
+Thu 14-March-2019 D, F
+Fri 15-March-2019 D
+Sat 16-March-2019 D, C
+Sun 17-March-2019 D, C
+Mon 18-March-2019 D, C
+Tue 19-March-2019 D
+Wed 20-March-2019 D
+Thu 21-March-2019 D, F
+Fri 22-March-2019 D
+Sat 23-March-2019 D, C
+Sun 24-March-2019 D, C
+Mon 25-March-2019 D, C
+Tue 26-March-2019 D
+Wed 27-March-2019 D
+Thu 28-March-2019 D, F
+Fri 29-March-2019 D
+Sat 30-March-2019 D, C
+Sun 31-March-2019 D, C
+Mon 01-April-2019 D, C
+Tue 02-April-2019 D, A
+Wed 03-April-2019 D
+Thu 04-April-2019 D, F
+Fri 05-April-2019 D
+Sat 06-April-2019 D, C
+Sun 07-April-2019 D, B, C
+Mon 08-April-2019 D, C
+Tue 09-April-2019 D
+Wed 10-April-2019 D
+Thu 11-April-2019 D, F
+Fri 12-April-2019 D
+Sat 13-April-2019 D, C
+Sun 14-April-2019 D, C
+Mon 15-April-2019 D, C
+Tue 16-April-2019 D
+Wed 17-April-2019 D
+Thu 18-April-2019 D, F
+Fri 19-April-2019 D
+Sat 20-April-2019 D, C
+Sun 21-April-2019 D, C
+Mon 22-April-2019 D, C
+Tue 23-April-2019 D
+Wed 24-April-2019 D
+Thu 25-April-2019 D, F
+Fri 26-April-2019 D
+Sat 27-April-2019 D, C
+Sun 28-April-2019 D, C
