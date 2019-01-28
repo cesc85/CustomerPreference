@@ -11,25 +11,22 @@ import java.util.Date;
 import java.util.Locale;
 
 public class CustomerPreferenceCentre {
-	private static final String INPUT_FILE = "C:/CustomerPreferenceCentre/input.txt";
-	private static final String OUTPUT_FILE = "C:/CustomerPreferenceCentre/output.txt";
-	private static final DateFormat outputFormat = new SimpleDateFormat("EEE dd-MMMM-yyyy", new Locale("EN"));
-	
+
 	public static void main(String[] args) throws IOException {
-        File outputFile = new File(OUTPUT_FILE);
+        File outputFile = new File(Utility.OUTPUT_FILE);
         FileOutputStream fos = new FileOutputStream(outputFile);
         PrintWriter pw = new PrintWriter(fos);
         //string that will be printed as output
         String out = "";
     	try{
-            Input input = Utility.readInput(INPUT_FILE);
+            Input input = Utility.readInput(Utility.INPUT_FILE);
     		Date currentDate = new Date();
     		Calendar c = Calendar.getInstance();
     		for(int i = 0; i < 90; i++){
     			//add one day
     			c.add(Calendar.DATE, 1);
     			currentDate = c.getTime();
-    			out += outputFormat.format(currentDate);
+    			out += Utility.outputFormat.format(currentDate);
     			//check people who chose option 'a' (one day of the month)
     			StringBuilder sb = new StringBuilder();
     			int day = c.get(Calendar.DAY_OF_MONTH);

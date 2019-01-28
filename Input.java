@@ -1,11 +1,7 @@
 package TotallyMoney;
 
-import java.text.DateFormatSymbols;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
-import java.util.Locale;
 import java.util.Map;
 
 public class Input {
@@ -17,7 +13,7 @@ public class Input {
 	//list of users who are always available
 	private ArrayList<String> everyDay;
 	//list of users who are never available, we may not need to save this list I just use to verify input is correct
-	private ArrayList<String> never;
+//	private ArrayList<String> never;
 	
 	public Input(){
 		//Inizialize all arraylists
@@ -30,7 +26,7 @@ public class Input {
 			specifiedDayOfWeek.put(d, new ArrayList<String>());
 		}
 		everyDay = new ArrayList<String>();
-		never = new ArrayList<String>();
+//		never = new ArrayList<String>();
 	}
 	
 	public Map<Integer, ArrayList<String>> getSpecifiedDay() {
@@ -51,12 +47,6 @@ public class Input {
 	}
 	public void setEveryDay(ArrayList<String> everyDay) {
 		this.everyDay = everyDay;
-	}
-	public ArrayList<String> getNever() {
-		return never;
-	}
-	public void setNever(ArrayList<String> never) {
-		this.never = never;
 	}
 
 }

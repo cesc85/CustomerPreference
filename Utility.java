@@ -1,6 +1,8 @@
 package TotallyMoney;
 import java.io.File;
+import java.text.DateFormat;
 import java.text.DateFormatSymbols;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
@@ -8,6 +10,9 @@ import java.util.Scanner;
 
 public class Utility {
 
+	public static final String INPUT_FILE = "C:/customerPreferenceCentre/input.txt";
+	public static final String OUTPUT_FILE = "C:/customerPreferenceCentre/output.txt";
+	public static final DateFormat outputFormat = new SimpleDateFormat("EEE dd-MMMM-yyyy", new Locale("EN"));
 	public static final List<String> weekDays = Arrays.asList(new DateFormatSymbols(new Locale("EN")).getShortWeekdays());
 	
 	public static Input readInput(String INPUT_FILE) throws Exception {
@@ -68,8 +73,6 @@ public class Utility {
 					if (userPreference.length > 2){
 						throw new Exception ("Input format not valid at line " + lineNum);
 					}
-					//add the user to appropriate list but I won't use it for this exercise
-					inp.getNever().add(customerId);
 					break;
 				default:
 					throw new Exception ("Chosen option not valid at line " + lineNum);
